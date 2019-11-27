@@ -18,5 +18,4 @@ class RoomStore: ObservableObject {
         self.rooms = rooms
     }
     
-    
 }
